@@ -1,1 +1,1 @@
-# VOIS_AICTE_Oct2025_MajorProject_AkshatKumarChaurasia
+This is my Major Project based on Topic Netflix Data Analysis.
